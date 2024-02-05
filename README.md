@@ -6,17 +6,10 @@ A simple Tic Tac Toe game built with React. This project allows users to play th
 
 ## Table of Contents
 
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Tests](#tests)
 - [Dependencies](#dependencies)
-
-## Features
-
-- Display a list of movie cards with details.
-- Lazy loading of movie cards as the user scrolls.
-- Search functionality to filter movies based on the title.
 
 ## Installation
 
